@@ -1,0 +1,25 @@
+
+*{
+    margin-top:100px;
+    margin-left: 40px;
+  
+  }
+  .box1 {
+      
+    background: darkgreen;
+    height: 600px;
+    width: 1000px;
+  }
+  .box2{
+      
+      margin-left: 250px;
+      margin-top: -500px;
+      height: 400px;
+      width: 400px;
+      background-color: #f31e0e;
+      border-radius: 500px;
+    }
+    
+    #me{
+      font-size: 200px;
+    }
